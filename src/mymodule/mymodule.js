@@ -1,5 +1,5 @@
 exports.printThing = function(){
-  console.log("rollin rollin.");
+  console.log("fa la la la la.");
   return "stuff";
 }
-console.log("Keep rollin.");
+console.log("la la la la!");

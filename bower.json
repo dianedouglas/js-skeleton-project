@@ -1,0 +1,23 @@
+{
+  "name": "nodebyex",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Diane"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6"
+  }
+}
